@@ -1,2 +1,4 @@
 # PowerShellScripts
-Learning powershell
+
+
+Learning  my way through powershell
